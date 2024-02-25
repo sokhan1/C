@@ -1,5 +1,5 @@
 // you should s32k144, 7segment and keypad
-// This code will express numbers you entered through keypad on 7-segments  
+// This code will display numbers you entered through keypad on 7-segments  
 
 #include "device_registers.h"
 #include "clocks_and_modes.h"
